@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/112201564/196260815-b0567a2d-2ab0-4cbe-8db7-571c88464a52.png)
 
-
+### Tech used: Vanilla JS, HTML CSS
 ### Goal: Enable your user to enter a date and return the picture/video of the day from NASA's API
 
 ### How to submit your code for review:
